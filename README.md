@@ -9,7 +9,7 @@
 
 <div align="left">
 
-- 🔭 I’m currently working on **MerchMarcato**
+- 🔭 I’m currently working on **School Website**
 
 - 🌱 I’m currently learning **ReactJS**
 
